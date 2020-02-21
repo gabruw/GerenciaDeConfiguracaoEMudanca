@@ -1,1 +1,1 @@
-# GerenciaDeConfiguracaoEMudanca
+# Gerência de Configuração e Mudança
